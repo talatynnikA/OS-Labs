@@ -1,0 +1,1 @@
+start C:\Users\Admin\Desktop\new_1.vbs

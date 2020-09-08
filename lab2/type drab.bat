@@ -1,0 +1,2 @@
+TYPE dirab.bat
+pause

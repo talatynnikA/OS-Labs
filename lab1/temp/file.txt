@@ -1,0 +1,168 @@
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:23:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:23:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:23:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:23:03
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:24:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:24:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:24:02
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:24:02
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:25:54
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:25:54
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:25:54
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:25:54
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:26:16
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:26:16
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:26:16
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:26:16
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:29:37
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:29:38
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:29:38
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:29:38
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:30:53
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:30:53
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.PinErrorException
+Неправильно введен pin1
+06.01.2020 9:30:53
+Void CheckBalance(System.String)
+   в ConsoleApp3.CreditCard.CheckBalance(String pin) в C:\Users\User6\source\repos\ConsoleApp3\ConsoleApp3\Program.cs:строка 99
+
+
+ConsoleApp3.NoManyException
+Недостаточно средств на балансе
+06.01.2020 9:30:53
+Void ConsoleApp3.ICard.Get(Int32, System.String)
+ConsoleApp3
+
+
